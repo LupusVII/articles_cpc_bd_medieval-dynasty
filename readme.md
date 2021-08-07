@@ -183,5 +183,7 @@ Après ce condensé d'informations, voilà l'heure des conseils en vrac qui ne r
 * L'agriculture est le chemin vers l'autonomie en nourriture, mais ne vous en préoccupez pas tout de suite. C'est assez cher et long à mettre en place et vous ne pourrez en tirer profit sans les bâtiments adéquats. 
 * Si la gestion de la nourriture est un trop gros problème, vous pouvez le désactiver dans les options de jeu
 * Chaque village a ses vendeurs spécialisés, vous pouvez interroger tous les PNJ pour savoir qui vend quoi et dans quelle ville
+* Pour l'instant, voyager de nuit n'est pas dangereux, du coup, si vous devez faire des trajets, je vous recommande de les faire à la nuit tombée. Vous gagnerez du temps.
+* Il parait qu'il y a des trésors cachés dans les gisements d'argile...
 
 Voilà qui conclut ce guide sur Medieval Dynasty ! J'espère qu'il vous aidera et que vous deviendrez le meilleur maire que Bledpaumav ait connu !

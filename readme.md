@@ -43,6 +43,25 @@ En été, repérez des baies et récoltez-en autant que vous pouvez. Ca se stock
 
 Enfin, il y a une mécanique de "Points de Dynastie". Vous obtenez des points en accomplissant des quêtes. A chaque 50aine de points obtenus, vous pourrez ajouter le colon de votre choix à votre bourgade.
 
+## Expériences et compétences
+N'importe quelle activité vous fera gagner des compétences dans la catégorie celle-ci. Par exemple, récolter des bâtons fera progresser votre expérience en survie., cuisiner fera augmenter votre production etc...
+
+- Photo de l'arbre de compétence -
+*Un RPG qu'on vous dit !*
+
+Toutes les compétences sont intéressantes, donc voilà un petit package que je vous recommande (une fois les compétences recommandées sélectionnés, faites comme bon vous semble) :
+* Extraction - Connaissances en extraction (1pt)
+* Extraction - Force de la Nature (niveau 2 - 3 pts)
+* Chasse - Steady Hand (1pt)
+* Chasse - Traqueur (niveau 2 - 1pt) 
+* Diplomatie - Diplomate (1pt)
+* Survie - Connaissances en survie (1pt)
+* Survie - Sens de la survie (niveau 2 - 1pt)
+* Survie - Survivant (niveau 3 - 3pt)
+* Production - Connaissance en Artisanat (1pt)
+* Production - Connaissance en Cuisine (1pt)
+* Production - Connaissance en Couture (1pt)
+
 ## Les années et les saisons
 Medieval Dynasty est un jeu qui se déroule sur plusieurs années. Chaque année est découpée en 4 saisons, printemps, été, automne, hiver. Chaque saison dure par défaut 3 jours ingame et à la fin d'une saison, votre personnage sera téléporté dans sa maison, avec ses barres d'état complètement restaurées. On peut voir la progression d'une saison via un curseur de progression, en haut de l'écran.
 

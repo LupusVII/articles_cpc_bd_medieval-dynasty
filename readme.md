@@ -68,7 +68,7 @@ Medieval Dynasty est un jeu qui se déroule sur plusieurs années. Chaque année
 - Photo du curseur de saison -
 *La durée d'une saison peut être personnalisée lorsque vous configurez votre partie. La durée par défaut est bien pour commencer*
 
-Chaque saison a ses particularités. L'environnement change (et c'est très beau), et des nouvelles ressources sont disponibles dans la nature. Comme dans la réalité, l'agriculture va dépendre intégralement des saisons, avec des types de graines qui ne se plantent qu'au printemps. (On y revient un peu plus bas).
+Chaque saison a ses particularités. L'environnement change (et c'est très beau), et des nouvelles ressources sont disponibles dans la nature. Comme dans la réalité, l'agriculture va dépendre intégralement des saisons, avec des types de graines qui ne se plantent qu'au printemps.
 
 A noter que le printemps est la saison des taxes. Vous devez vous acquiter d'un certain montant de brouzoufs, calculé selon la taille de votre colonie. Ca aussi, on verra plus tard.
 
@@ -103,7 +103,7 @@ Cela dit, voilà une petite checklist pour bien se placer :
 - Carte avec emplacements -
 *Pour l'instant, il n'y a pas d'intérêt à s'éloigner du premier village*
 
-Une maison, comme la plupart des bâtiments de Medieval Dynasty va se construire en plusieurs étapes. D'abord, via votre menu de construction (touche A), vous choisissez la section xxx, puis la "petite maison ordinaire" qui coûte x rondins. S'affiche alors sur votre écran un aperçu de la maison à poser. Une fois placée, les fondations de ladite maison apparaissent.
+Une maison, comme la plupart des bâtiments de Medieval Dynasty va se construire en plusieurs étapes. D'abord, via votre menu de construction (touche A), vous choisissez la section Bâtiments / Habitations, puis la "petite maison ordinaire" qui coûte x rondins. S'affiche alors sur votre écran un aperçu de la maison à poser. Une fois placée, les fondations de ladite maison apparaissent.
 
 - Fondations de maison -
 *La première cabane en bouse séchée, snirf, que d'émotions*
@@ -130,7 +130,7 @@ Chaque colon va réclamer un toit, de la nourriture, et du bois de chauffage pou
 Les colons ne s'assignent pas tout seuls ! Une fois invité.e à rejoindre votre bourgade, ouvrez votre interface de gestion, allez dans l'onglet des bâtiments et affectez votre nouveau colon à son lieu d'habitation. Il est possible d'assigner 2 personnes par petite maison.
 
 - Interface de gestion -
-*L'interface est un peu raide, on croise les doigts pour avoir une petite update d'UI*
+*L'interface est un peu raide, mais on a toutes les informations importantes à droite*
 
 Maintenant que l'on a accueilli nos premiers habitants, on va voir comment les occuper !
 
@@ -158,9 +158,9 @@ Plus tard, vous pourrez automatiser la création des outils et de petits plats. 
 **
 
 - Petit bourg -
-*Au fur et à mesure, les tâches vont s'automatiser pour vous laisser souffler*
+*Au fur et à mesure, les tâches vont s'automatiser pour vous permettre de faire d'autres tâches plus complexes*
 
-## Le flirt
+## Après le maire, la mère
 
 Après avoir accompli toute la basse besogne, il est temps pour vous d'assurer une descendance. Il n'y a pas Dynasty dans le nom du jeu pour rien !
 

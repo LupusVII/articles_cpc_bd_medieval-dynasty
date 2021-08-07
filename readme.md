@@ -7,7 +7,7 @@ Le but est malgré tout assez simple : développer sa colonie et sa dynastie. Vo
 
 ** Block **
 
-Le jeu étant amené à bouger énormèment, nous nous focaliserons uniquement sur les mécaniques importantes que l'on peut observer durant la 1ère année. Le jeu a beaucoup à offrir et la découverte des mécaniques est une composante importante dans son appréciation, donc ne spoilons pas tout.
+Le jeu étant amené à bouger énormèment, nous nous focaliserons uniquement sur les mécaniques importantes que l'on peut observer durant la 1ère année. Il a beaucoup à offrir et la découverte des mécaniques est une composante importante dans son appréciation, donc ne spoilons pas tout.
 
 La roadmap 2021 est disponible sur le site officiel : https://www.toplitz-productions.com/news-2388/medieval-dynasty-your-timeline-through-the-medieval-year.html
 
@@ -34,12 +34,14 @@ Pour la paille, regardez en bordure de rivière et cherchez des roseaux. Il y en
 - Photo de plusieurs arbres au sol -
 *C'est en buchant qu'on devient bucheron parait-il*
 
-Enfin, le plus délicat sera de subvenir à vos besoins en terme de nourriture. Il n'y a effectivement pas grand chose à se mettre sous la dent au début du jeu. Le peu de viande que vous trouvez en chassant permet de tenir une journée environ. 
+Au début, le plus délicat sera de subvenir à vos besoins en terme de nourriture. Il n'y a effectivement pas grand chose à se mettre sous la dent vu les outils à votre disposition. Le peu de viande que vous trouvez en chassant permet de tenir une journée environ. 
 
 En été, repérez des baies et récoltez-en autant que vous pouvez. Ca se stocke bien et ça vous aidera à tenir le temps d'automatiser la collecte.
 
 - Photo de baies en été -
 *Aucun risque, vous pouvez y aller, pas de maux de ventre au Moyen-Âge*
+
+Enfin, il y a une mécanique de "Points de Dynastie". Vous obtenez des points en accomplissant des quêtes. A chaque 50aine de points obtenus, vous pourrez ajouter le colon de votre choix à votre bourgade.
 
 ## Les années et les saisons
 Medieval Dynasty est un jeu qui se déroule sur plusieurs années. Chaque année est découpée en 4 saisons, printemps, été, automne, hiver. Chaque saison dure par défaut 3 jours ingame et à la fin d'une saison, votre personnage sera téléporté dans sa maison, avec ses barres d'état complètement restaurées. On peut voir la progression d'une saison via un curseur de progression, en haut de l'écran.
@@ -114,9 +116,51 @@ Les colons ne s'assignent pas tout seuls ! Une fois invité.e à rejoindre votre
 Maintenant que l'on a accueilli nos premiers habitants, on va voir comment les occuper !
 
 ## Devenir maire
+Après avoir recruté vos premiers colons, une fois logés, nourris et chauffés, il va être temps de les mettre au turbin. Les premiers bâtiments à construire sont les plus simples à débloquer : le pavillon de chasse et l'abri à bois. Procédez comme pour une maison pour bâtir ces bâtiments.
 
+Pour assigner quelqu'un à un travail, ouvrez votre interface, dans l'onglet gestion, puis sélectionnez un bâtiment. Une liste des "postes" disponibles s'affichera, il peut y en avoir plusieurs par bâtiment. Une fois le poste sélectionné, le jeu vous demandera de sélectionner la personne à assigner à ce job. Chaque colon a ses compétences et il est important d'assigner une personne adaptée car cela impactera sa production quotidienne.
 
+- Interface de gestion des employés sur un bâtiment -
+*Ah bah je vous ai dit que c'était raide*
+
+Ensuite. Oui, c'est pas fini. Il y a une interface de production par bâtiment. Dans la liste des bâtiments disponibles, double-cliquez sur le bâtiment à configurer. Une nouvelle fenêtre apparaitra, avec des informations sur le travail à accomplir. Il y a des quotas de ressources à collecter, avec une intensité de travail qui augmentera en fonction de vos demandes.
+
+Attention, cela ne suffit pas ! Pour que le travail soit fait, il faut également fournir les outils ! Pour un pavillon de chasse, il faut fournir un couteau en pierre pour que les chasseurs ramènent un peu de viande. Pour un abri à bois, il faudra une hache. Chaque ressource collectée diminuera la durabilité de l'outil, jusqu'à le briser, et vous devrez alors en fournir un nouveau. Donc pensez à vérifier l'état de vos outils.
+
+Commencez par le pavillon de chasse, en désignant un **chasseur**. Cela vous permet de collecter une quantité de nourriture suffisante pour subvenir à vos besoins. Vous devrez toujours la préparer vous-même, dans un feu de camp, mais c'est déjà un sacré temps de gagné. 
+
+- Image avec le chasseur à son poste -
+*Y'a deux types de chasseurs...*
+
+** Block **
+
+Plus tard, vous pourrez automatiser la création des outils et de petits plats. Via des bâtiments plus avancés et avec plus de colons. Les chaînes de production restent assez basiques pour l'instant et on a vite fait le tour, mais c'est satisfaisant de voir tout le monde à sa tâche.
+
+**
 
 - Petit bourg -
 *Au fur et à mesure, les tâches vont s'automatiser pour vous laisser souffler*
 
+## Le flirt
+
+Après avoir accompli toute la basse besogne, il est temps pour vous d'assurer une descendance. Il n'y a pas Dynasty dans le nom du jeu pour rien !
+
+Bon, le jeu est assez pauvre sur le sujet. Trouver une compagne reviendra à faire ce que les Sims faisaient dans les années 2000, comprendre parler de tout et de rien pendant X temps et offrir des trucs pour séduire sa dulcinée.
+Une jauge d'affection se remplit, sous la forme d'un pourcentage, et quand elle arrive à 100%, tada, achievment unlocked, vous voilà marié.
+
+A savoir qu'il y a tout de même une notion de personnalité et que les réactions ne seront pas forcément les mêmes selon ce dernier. 
+
+- Capture d'une discussion de flirt -
+*N'est pas Don Juan qui veut*
+
+Une fois mariés, vous pourrez alors prendre la décision d'avoir un héritier, qui pourra prendre votre place à votre trépas, et perpétuer la lignée !
+
+## Les conseils en vrac de Professeur SaitDesTrucs
+Après ce condensé d'informations, voilà l'heure des conseils en vrac qui ne rentrent nulle part ! Comme d'habitude, cette section peut être mise à jour au cours de mes propres périples. N'hésitez pas à nous rejoindre sur le Discord si vous voulez y contribuer !
+* Pour vous faire un premier pécule, récoltez beaucoup d'herbes et de champignons, cela se revend bien, et les commerçants sont pétés de thunes.
+* Ne vous acharnez pas avec la lance en bois pour chasser autre chose que des lapins. Elle ne fait pas assez de dégats pour tuer les ennemis en un coup. (Ils se barreront avec et vous ne la retrouverez jamais.
+* Repérez les charettes sur le bord des routes lors de vos voyages, il y a souvent un objet intéressant à récupérer pas loin.
+* L'agriculture est le chemin vers l'autonomie en nourriture, mais ne vous en préoccupez pas tout de suite. C'est assez cher et long à mettre en place et vous ne pourrez en tirer profit sans les bâtiments adéquats. 
+* Si la gestion de la nourriture est un trop gros problème, vous pouvez le désactiver dans les options de jeu
+
+Voilà qui conclut ce guide sur Medieval Dynasty ! J'espère qu'il vous aidera et que vous deviendrez le meilleur maire que Bledpaumav ait connu !

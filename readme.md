@@ -13,6 +13,34 @@ La roadmap 2021 est disponible sur le site officiel : https://www.toplitz-produc
 
 **
 
+## Principes de base
+Composante classique des survivals, il faut faire attention à vos jauges de vie (rouge), endurance (verte), nutrition (brune) et hydratation (bleue). Elles se trouvent en bas à gauche de votre interface.
+
+Vous perdez de la vie en affrontant des bestioles, en mangeant des mauvais trucs, en chutant... Et pour en regagner, vous pouvez soit dormir ou manger certains plats avancés ou certaines plantes (plantain).
+
+Le jeu n'est pas trop vache, il vous lâche avec de la nourriture pour quelques jours. Les rouleaux pour avoine sont très nutritifs (+55). Ca ne sert à rien de trop manger, donc économisez votre nourriture autant que possible.
+
+Niveau hydratation, il suffit de s'approcher de n'importe quel cours d'eau et de rester appuyer sur la touche d'interaction. 
+
+- Photo d'un rouleau d'avoine -
+*C'est fade, mais nutritif et bon pour votre ligne !*
+
+Tout ce qui est construction se déroule dans un menu radial avec plusieurs catégories. Dans un premier temps, tout ce qui vous intéresse se trouve dans la catégorie "Artisanat". Il y a les outils en pierre et quelques crafts rapides.
+
+Niveau collecte de ressources, c'est là aussi assez classique. Les pierres et les bâtons se trouvent sur le sol en quantité suffisante. Pour les rondins, cela demande une hache en pierre. Trouvez votre arbre, mettez 4 coups, l'arbre tombe. Un premier coup sur l'arbre retirera les branches et les plumes, et un second coupera l'arbre en plusieurs rondins. Attention, ça pèse lourd !
+
+Pour la paille, regardez en bordure de rivière et cherchez des roseaux. Il y en a en assez grande quantité pour construire vos premiers bâtiments.
+
+- Photo de plusieurs arbres au sol -
+*C'est en buchant qu'on devient bucheron parait-il*
+
+Enfin, le plus délicat sera de subvenir à vos besoins en terme de nourriture. Il n'y a effectivement pas grand chose à se mettre sous la dent au début du jeu. Le peu de viande que vous trouvez en chassant permet de tenir une journée environ. 
+
+En été, repérez des baies et récoltez-en autant que vous pouvez. Ca se stocke bien et ça vous aidera à tenir le temps d'automatiser la collecte.
+
+- Photo de baies en été -
+*Aucun risque, vous pouvez y aller, pas de maux de ventre au Moyen-Âge*
+
 ## Les années et les saisons
 Medieval Dynasty est un jeu qui se déroule sur plusieurs années. Chaque année est découpée en 4 saisons, printemps, été, automne, hiver. Chaque saison dure par défaut 3 jours ingame et à la fin d'une saison, votre personnage sera téléporté dans sa maison, avec ses barres d'état complètement restaurées. On peut voir la progression d'une saison via un curseur de progression, en haut de l'écran.
 
@@ -44,4 +72,51 @@ La première chose à faire est de discuter avec Alwin pour activer votre premi�
 *Les quêtes sont assez bof, mais les récompenses sont au rendez-vous*
 
 ## Première colonie
+Très vite, on va vous demander de poser les fondations de votre première cahute. L'emplacement est important car vous allez avoir besoin d'une bonne quantité de ressources à proximité. La carte est assez grande, les lieux pour s'installer ne manquent pas.
+
+Cela dit, voilà une petite checklist pour bien se placer :
+* En lisière de forêt (bois / chasse / cueillette)
+* Pas trop loin d'un cours d'eau (eau... oui, je sais, c'est fou)
+* Pas trop loin d'un village (commerce, nécessités d'urgence, colons, quêtes)
+
+- Carte avec emplacements -
+*Pour l'instant, il n'y a pas d'intérêt à s'éloigner du premier village*
+
+Une maison, comme la plupart des bâtiments de Medieval Dynasty va se construire en plusieurs étapes. D'abord, via votre menu de construction (touche A), vous choisissez la section xxx, puis la "petite maison ordinaire" qui coûte x rondins. S'affiche alors sur votre écran un aperçu de la maison à poser. Une fois placée, les fondations de ladite maison apparaissent.
+
+- Fondations de maison -
+*La première cabane en bouse séchée, snirf, que d'émotions*
+
+Equipez-vous de votre maillet, qui mettra en évidence toutes les portions à construire. Faites les aller-retours entre collecte de ressources et construction et bâtissez votre cahute. Voilà la liste de courses nécessaire (maison par défaut) :
+* 22 Rondins
+* 128 bâtons
+* 48 pailles
+
+- Maison à moitié construite -
+*Chaque élément (mur / porte / fenêtre / toit) est remplacable par un type plus "beau", comme du bois ou de la pierre*
+
+La première maison construite vous sera automatiquement assignée. Elle est faite pour vous et pour votre future famille et vous ne pouvez pas la partager avec d'autres colons. Ce sera important plus tard, continuez votre quête principale qui vous expliquera les rudiments de la chasse et du piégeage.
+
+Vous allez croiser régulièrement des colons potentiels, que vous pouvez inviter dans votre colonie. **Patientez un peu, ce n'est pas encore le moment**. En effet, accueillir de nouvelles gens va demander un peu de préparation.
+
+Déjà, attendez l'été. Car en été, il y a des baies, et c'est un excellent moyen de vous nourrir à petit frais.
+
+Chaque colon va réclamer un toit, de la nourriture, et du bois de chauffage pour être content. Construisez donc une seconde maison, préparez un peu de bois de chauffage (2 par jour et par maison habitée) via votre menu d'artisanat et prévoyez aussi de la nourriture (viande rôtie ou des baies). Mettez tout ça dans le coffre de ladite maison et allez chercher le premier venu. Ils se rassemblent autour des feux de camps des villages et attendent qu'un bon bougre comme vous leur dise quoi faire.
+
+- Feu de camp -
+*Non, c'est pas des hippies, c'est vos futures gens*
+
+Les colons ne s'assignent pas tout seuls ! Une fois invité.e à rejoindre votre bourgade, ouvrez votre interface de gestion, allez dans l'onglet des bâtiments et affectez votre nouveau colon à son lieu d'habitation. Il est possible d'assigner 2 personnes par petite maison.
+
+- Interface de gestion -
+*L'interface est un peu raide, on croise les doigts pour avoir une petite update d'UI*
+
+Maintenant que l'on a accueilli nos premiers habitants, on va voir comment les occuper !
+
+## Devenir maire
+
+
+
+- Petit bourg -
+*Au fur et à mesure, les tâches vont s'automatiser pour vous laisser souffler*
 

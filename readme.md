@@ -177,9 +177,11 @@ Une fois mariés, vous pourrez alors prendre la décision d'avoir un héritier, 
 ## Les conseils en vrac de Professeur SaitDesTrucs
 Après ce condensé d'informations, voilà l'heure des conseils en vrac qui ne rentrent nulle part ! Comme d'habitude, cette section peut être mise à jour au cours de mes propres périples. N'hésitez pas à nous rejoindre sur le Discord si vous voulez y contribuer !
 * Pour vous faire un premier pécule, récoltez beaucoup d'herbes et de champignons, cela se revend bien, et les commerçants sont pétés de thunes.
+* Avec ce pécule, achetez le plan pour faire l'arc, cela vous facilitera drôlement la vie.
 * Ne vous acharnez pas avec la lance en bois pour chasser autre chose que des lapins. Elle ne fait pas assez de dégats pour tuer les ennemis en un coup. (Ils se barreront avec et vous ne la retrouverez jamais.
 * Repérez les charettes sur le bord des routes lors de vos voyages, il y a souvent un objet intéressant à récupérer pas loin.
 * L'agriculture est le chemin vers l'autonomie en nourriture, mais ne vous en préoccupez pas tout de suite. C'est assez cher et long à mettre en place et vous ne pourrez en tirer profit sans les bâtiments adéquats. 
 * Si la gestion de la nourriture est un trop gros problème, vous pouvez le désactiver dans les options de jeu
+* Chaque village a ses vendeurs spécialisés, vous pouvez interroger tous les PNJ pour savoir qui vend quoi et dans quelle ville
 
 Voilà qui conclut ce guide sur Medieval Dynasty ! J'espère qu'il vous aidera et que vous deviendrez le meilleur maire que Bledpaumav ait connu !

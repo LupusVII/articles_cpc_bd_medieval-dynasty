@@ -1,4 +1,5 @@
 # Medieval Dynasty
+## A l'Est, rien de nouveau
 *Guide basé sur la version 0.6 du jeu*
 
 Il y a des jeux qui aiment bien couvrir beaucoup de genres. Ceux qui mêlent survival avec RPG, ceux qui associent aventure et gestion, et ceux qui associent TOUT. Medieval Dynasty est un FPS d'aventure avec des composantes RPG, survie, construction et gestion. Ouais, rien que ça.

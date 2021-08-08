@@ -8,7 +8,7 @@ Le but est malgré tout assez simple : développer sa colonie et sa dynastie. Vo
 
 ** Block **
 
-Le jeu étant amené à bouger énormèment, nous nous focaliserons uniquement sur les mécaniques importantes que l'on peut observer durant la 1ère année. Il a beaucoup à offrir et la découverte des mécaniques est une composante importante dans son appréciation, donc ne spoilons pas tout.
+Le jeu étant amené à bouger énormément, nous nous focaliserons uniquement sur les mécaniques importantes que l'on peut observer durant la 1ère année. Il a beaucoup à offrir et la découverte des mécaniques est une composante importante dans son appréciation, donc ne spoilons pas tout.
 
 La roadmap 2021 est disponible sur le site officiel : https://www.toplitz-productions.com/news-2388/medieval-dynasty-your-timeline-through-the-medieval-year.html
 
@@ -19,7 +19,7 @@ Composante classique des survivals, il faut faire attention à vos jauges de vie
 
 Vous perdez de la vie en affrontant des bestioles, en mangeant des mauvais trucs, en chutant... Et pour en regagner, vous pouvez soit dormir ou manger certains plats avancés ou certaines plantes (plantain).
 
-Le jeu n'est pas trop vache, il vous lâche avec de la nourriture pour quelques jours. Les rouleaux pour avoine sont très nutritifs (+55). Ca ne sert à rien de trop manger, donc économisez votre nourriture autant que possible.
+Le jeu n'est pas trop vache, il vous lâche avec de la nourriture pour quelques jours. Les rouleaux d'avoine sont très nutritifs (+55). Ça ne sert à rien de trop manger, donc économisez votre nourriture autant que possible.
 
 Niveau hydratation, il suffit de s'approcher de n'importe quel cours d'eau et de rester appuyer sur la touche d'interaction. 
 
@@ -38,9 +38,6 @@ Pour la paille, regardez en bordure de rivière et cherchez des roseaux. Il y en
 Au début, le plus délicat sera de subvenir à vos besoins en terme de nourriture. Il n'y a effectivement pas grand chose à se mettre sous la dent vu les outils à votre disposition. Le peu de viande que vous trouvez en chassant permet de tenir une journée environ. 
 
 En été, repérez des baies et récoltez-en autant que vous pouvez. Ca se stocke bien et ça vous aidera à tenir le temps d'automatiser la collecte.
-
-- Photo de baies en été -
-*Aucun risque, vous pouvez y aller, pas de maux de ventre au Moyen-Âge*
 
 Enfin, il y a une mécanique de "Points de Dynastie". Vous obtenez des points en accomplissant des quêtes. A chaque 50aine de points obtenus, vous pourrez ajouter le colon de votre choix à votre bourgade.
 
@@ -71,7 +68,7 @@ Medieval Dynasty est un jeu qui se déroule sur plusieurs années. Chaque année
 
 Chaque saison a ses particularités. L'environnement change (et c'est très beau), et des nouvelles ressources sont disponibles dans la nature. Comme dans la réalité, l'agriculture va dépendre intégralement des saisons, avec des types de graines qui ne se plantent qu'au printemps.
 
-A noter que le printemps est la saison des taxes. Vous devez vous acquiter d'un certain montant de brouzoufs, calculé selon la taille de votre colonie. Ca aussi, on verra plus tard.
+A noter que le printemps est la saison des taxes. Vous devez vous acquitter d'un certain montant de brouzoufs, calculé selon la taille de votre colonie. Ça aussi, on verra plus tard.
 
 - Photo montage de 2 saisons -
 *Ce jeu propose une ambiance très sympathique, à la manière de Kingdom Come Deliverance*
@@ -86,12 +83,9 @@ Viennent ensuite des quêtes dites d'"histoire" - associées à un personnage en
 - Photo d'Alwin -
 *La fine fleur du pays, à ne pas confondre avec Alduin*
 
-Enfin, il a les quêtes secondaires, qui sont des services à rendre à certains villageois. Ces dernières sont souvent redondantes et permettent de s'approvisionner en pièces et ressources. Attention toutefois, ces quêtes doivent être réalisées avant la fin de la saison courante. Donc ne prenez pas de quêtes si votre curseur de saison indique que vous allez passer à la suite très prochainement.
+Enfin, il y a les quêtes secondaires, qui sont des services à rendre à certains villageois. Ces dernières sont souvent redondantes et permettent de s'approvisionner en pièces et ressources. Attention toutefois, ces quêtes doivent être réalisées avant la fin de la saison courante. Donc ne prenez pas de quêtes si votre curseur de saison indique que vous allez passer à la suite très prochainement.
 
 La première chose à faire est de discuter avec Alwin pour activer votre première quête d'histoire. Ces quêtes permettent d'obtenir des outils et des ingrédients nécessaires dans votre progression car ils sont difficiles à obtenir "à la régulière". Vous aurez tout le temps de faire progresser sa quête, car les quêtes d'histoire ne dépendent pas des saisons comme les quêtes secondaires.
-
-- Photo du journal de quête -
-*Les quêtes sont assez bof, mais les récompenses sont au rendez-vous*
 
 ## Première colonie
 Très vite, on va vous demander de poser les fondations de votre première cahute. L'emplacement est important car vous allez avoir besoin d'une bonne quantité de ressources à proximité. La carte est assez grande, les lieux pour s'installer ne manquent pas.
@@ -179,8 +173,8 @@ Une fois mariés, vous pourrez alors prendre la décision d'avoir un héritier, 
 Après ce condensé d'informations, voilà l'heure des conseils en vrac qui ne rentrent nulle part ! Comme d'habitude, cette section peut être mise à jour au cours de mes propres périples. N'hésitez pas à nous rejoindre sur le Discord si vous voulez y contribuer !
 * Pour vous faire un premier pécule, récoltez beaucoup d'herbes et de champignons, cela se revend bien, et les commerçants sont pétés de thunes.
 * Avec ce pécule, achetez le plan pour faire l'arc, cela vous facilitera drôlement la vie.
-* Ne vous acharnez pas avec la lance en bois pour chasser autre chose que des lapins. Elle ne fait pas assez de dégats pour tuer les ennemis en un coup. (Ils se barreront avec et vous ne la retrouverez jamais.
-* Repérez les charettes sur le bord des routes lors de vos voyages, il y a souvent un objet intéressant à récupérer pas loin.
+* Ne vous acharnez pas avec la lance en bois pour chasser autre chose que des lapins. Elle ne fait pas assez de dégâts pour tuer les ennemis en un coup. (Ils se barreront avec et vous ne la retrouverez jamais.
+* Repérez les charrettes sur le bord des routes lors de vos voyages, il y a souvent un objet intéressant à récupérer pas loin.
 * L'agriculture est le chemin vers l'autonomie en nourriture, mais ne vous en préoccupez pas tout de suite. C'est assez cher et long à mettre en place et vous ne pourrez en tirer profit sans les bâtiments adéquats. 
 * Si la gestion de la nourriture est un trop gros problème, vous pouvez le désactiver dans les options de jeu
 * Chaque village a ses vendeurs spécialisés, vous pouvez interroger tous les PNJ pour savoir qui vend quoi et dans quelle ville

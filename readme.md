@@ -109,7 +109,7 @@ Equipez-vous de votre maillet, qui mettra en évidence toutes les portions à co
 * 48 pailles
 
 - Maison à moitié construite -
-*Chaque élément (mur / porte / fenêtre / toit) est remplacable par un type plus "beau", comme du bois ou de la pierre*
+*Chaque élément (mur / porte / fenêtre / toit) est remplaçable plus tard  par un type plus "beau", comme du bois ou de la pierre*
 
 La première maison construite vous sera automatiquement assignée. Elle est faite pour vous et pour votre future famille et vous ne pouvez pas la partager avec d'autres colons. Ce sera important plus tard, continuez votre quête principale qui vous expliquera les rudiments de la chasse et du piégeage.
 
